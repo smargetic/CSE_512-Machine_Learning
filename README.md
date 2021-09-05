@@ -6,7 +6,11 @@ Machine Learning is centered around automated methods that improve their own per
 
 Homeworks:
 1.
+
 2.
+
 3.
+
 4.
+
 5.
