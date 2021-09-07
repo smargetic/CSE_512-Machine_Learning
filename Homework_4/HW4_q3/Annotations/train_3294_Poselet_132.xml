@@ -1,0 +1,42 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_3294_Poselet_132.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>685</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<xmax>342</xmax>
+			<ymin>239</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+		<contact_state>0,0,1,0,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<xmax>546</xmax>
+			<ymin>311</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+		<contact_state>0,0,1,0,</contact_state>
+		<hand_id>2</hand_id>
+	</object>
+</annotation>
