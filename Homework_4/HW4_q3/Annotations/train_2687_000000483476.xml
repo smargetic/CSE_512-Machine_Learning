@@ -1,0 +1,42 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_2687_000000483476.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>128</xmax>
+			<ymin>298</ymin>
+			<ymax>375</ymax>
+		</bndbox>
+		<contact_state>0,0,1,0,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>183</xmax>
+			<ymin>297</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+		<contact_state>0,0,1,1,</contact_state>
+		<hand_id>2</hand_id>
+	</object>
+</annotation>
