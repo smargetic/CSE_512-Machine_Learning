@@ -1,0 +1,42 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_3692_athletics_00393.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<xmax>739</xmax>
+			<ymin>207</ymin>
+			<ymax>346</ymax>
+		</bndbox>
+		<contact_state>1,0,0,0,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>292</xmax>
+			<ymin>225</ymin>
+			<ymax>343</ymax>
+		</bndbox>
+		<contact_state>0,1,0,1,</contact_state>
+		<hand_id>2</hand_id>
+	</object>
+</annotation>
