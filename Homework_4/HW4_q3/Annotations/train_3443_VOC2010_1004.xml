@@ -1,0 +1,27 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_3443_VOC2010_1004.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>113</xmax>
+			<ymin>139</ymin>
+			<ymax>212</ymax>
+		</bndbox>
+		<contact_state>0,0,1,0,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+</annotation>
