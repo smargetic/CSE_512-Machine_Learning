@@ -1,0 +1,42 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_3913_festival_01396.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<xmax>350</xmax>
+			<ymin>562</ymin>
+			<ymax>616</ymax>
+		</bndbox>
+		<contact_state>0,1,0,1,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<xmax>531</xmax>
+			<ymin>551</ymin>
+			<ymax>610</ymax>
+		</bndbox>
+		<contact_state>0,1,0,1,</contact_state>
+		<hand_id>2</hand_id>
+	</object>
+</annotation>
