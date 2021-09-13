@@ -10,7 +10,7 @@ Calculate risk and asymptotic risk. Create upper bound for asymptotic risk.
 1.2: k-NN classifier
 
 k points drawn from Bernoulli distribution with two outcomes: positive or negative.
-Calculate relationshipe between risk and asymptotic risk. Create upper bound for asymptotic risk. 
+Calculate relationshipe between risk and asymptotic risk. Create upper bound for asymptotic risk. Solve for probability relationship using Hoeffding’s Inequality.
 
 Question 2: Implementation
 
