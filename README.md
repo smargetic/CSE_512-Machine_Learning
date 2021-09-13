@@ -6,12 +6,42 @@ Machine Learning is centered around automated methods that improve their own per
 
 Homeworks:
 
-1.
+1. 
+
+1.1: Probability
+
+1.2: Feature Examination - obtain mean and variance of distribution and plot as Gaussian.
+
+1.3: Linear Regression
 
 2.
 
-3.
+2.1: Parameter Estimation - MLE, MAP, and Estimator Bias.
+
+2.2: Logistic Regression
+
+3. Nearest Neighbor Classifiers
+
+3.1: Derivations
+
+3.2: Implementation
 
 4.
 
+4.1: Support Vector Machines (SVM)
+
+4.2: XGBoost
+
+4.3: SVM for object detection
+
 5.
+
+5.1: K-means implementation
+
+5.2: Discovering traffic directions
+
+6.
+
+6.1: Learning PyTorch
+
+6.2: Use a CNN for counting objects in images
