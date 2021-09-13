@@ -1,5 +1,6 @@
 Assignment Problems Description:
 
+
 Question 1: Parameter estimation
 
 1.1: MLE for Poisson distribution.
@@ -7,6 +8,7 @@ Question 1: Parameter estimation
 1.2: MAP done with a prior distribution, for λ, of a Gamma distribution.
 
 1.3: Estimator Bias - Proving a case where the maximum likelihood estimate is dramatically superior to any unbiased estimator.
+
 
 Question 2: Logistic Regression
 
