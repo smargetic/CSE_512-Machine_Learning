@@ -8,3 +8,7 @@ Full description of problems found at: CSE512_Spring21_HW3.pdf
 
 Feedback From Grader:
 
+Q2.2.4: 1 neighbor per sample missing.
+
+Good job overall.
+
