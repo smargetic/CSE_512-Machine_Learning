@@ -1,4 +1,4 @@
-Assignment Problem Descriptions:
+Assignment Problems Description:
 
 Question 1: Probability
 
