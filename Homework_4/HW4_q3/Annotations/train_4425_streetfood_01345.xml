@@ -1,0 +1,42 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>train_4425_streetfood_01345.jpg</filename>
+	<source>
+	<database>Source</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>206</xmax>
+			<ymin>431</ymin>
+			<ymax>460</ymax>
+		</bndbox>
+		<contact_state>2,2,0,2,</contact_state>
+		<hand_id>1</hand_id>
+	</object>
+
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<xmax>355</xmax>
+			<ymin>355</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+		<contact_state>2,0,0,2,</contact_state>
+		<hand_id>2</hand_id>
+	</object>
+</annotation>
