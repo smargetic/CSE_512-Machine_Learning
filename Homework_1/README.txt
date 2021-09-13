@@ -1,10 +1,13 @@
 Assignment Problems Description:
 
+
 Question 1: Probability
+
 
 Question 2: Feature examination 
 
 In this question, we are asked to write a function to approximate the distribution of each individual features by an univariate Gaussian distribution.
+
 
 Question 3: Linear Regression
 
